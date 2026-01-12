@@ -36,12 +36,5 @@
 
 ---
 
-## Outputs
-- `results/ols_summary.txt`, `results/ols_params.csv`, `results/ols_metrics.csv`
-- `results/vif.csv`, `results/breusch_pagan.json`, `results/influential_points.csv`
-- `figures/` (EDA + diagnostics plots)
-
----
-
 ## Author
 M. Osvaldo Hernández Montoya
