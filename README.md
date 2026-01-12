@@ -6,7 +6,7 @@
 
 ---
 
-## Why this matters (for a hiring manager)
+## Why this matters
 - Shows progression from a weak baseline (Project 1) to a **multivariate model** with improved explanatory power.
 - Includes **diagnostics** (collinearity, heteroscedasticity, influence) and proposes concrete next steps.
 - Reproducibility: **Python-first workflow** + optional **R cross-check**.
@@ -27,31 +27,9 @@
 
 ![Cook's distance](figures/cooks_distance.png)
 
-
 ---
 
-## Quickstart (Python)
-Create the conda environment:
-
-```bash
-conda env create -f python/environment.yml
-conda activate ca2-pic50-multivariate
-```
-
-**Important:** this project expects the curated dataset produced in Project 1.
-Copy it into: `data/processed/ca2_curated.csv`
-
-Run the pipeline:
-
-```bash
-python python/src/01_multivariate_eda.py
-python python/src/02_fit_ols_multivariate.py
-python python/src/03_diagnostics.py
-```
-
----
-
-## Notebooks (recommended for reading)
+## Notebooks
 1. `notebooks/01_multivariate_eda.ipynb`
 2. `notebooks/02_multivariate_ols.ipynb`
 3. `notebooks/03_diagnostics_influence.ipynb`
