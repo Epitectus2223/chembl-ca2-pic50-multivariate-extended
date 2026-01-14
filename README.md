@@ -93,17 +93,11 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 ---
 
 ## Key plots P2.1
-- Model comparison (A vs B vs C) — R² / Adj R² summary  
-  figures/p21_model_comparison.png
-
-- Residuals vs fitted (Model C)  
+**Residuals vs fitted (Model C)**  
 ![modelC_residuals_vs_fitted](figures/p21_modelC_residuals_vs_fitted.png)
 
-- Q–Q plot (Model C)  
+**Q–Q plot (Model C)**  
 ![modelC_qqplot](figures/p21_modelC_qqplot.png)
-
-- VIF summary (A/B/C)  
-  figures/p21_vif_summary.png
 
 ---
 
