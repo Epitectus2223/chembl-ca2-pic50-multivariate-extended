@@ -93,8 +93,6 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 ---
 
 ## Key plots P2.1
-> Add your model-comparison and diagnostic plots in `figures/` and link them here.
-
 - Model comparison (A vs B vs C) — R² / Adj R² summary  
   figures/p21_model_comparison.png
 
