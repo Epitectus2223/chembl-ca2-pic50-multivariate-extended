@@ -84,10 +84,10 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 **Pairplot**  
 ![Pairplot](figures/pairplot.png)
 
-**Normal Q–Q plot (residuals)**  
+**Normal Q–Q plot**  
 ![Q-Q plot](figures/qqplot.png)
 
-**Cook’s Distance (influence)**  
+**Cook’s Distance**  
 ![Cook's Distance](figures/cooks_distance.png)
 
 ---
@@ -97,10 +97,10 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
   figures/p21_model_comparison.png
 
 - Residuals vs fitted (Model C)  
-  figures/p21_modelC_residuals_vs_fitted.png
+![modelC_residuals_vs_fitted](figures/p21_modelC_residuals_vs_fitted.png)
 
 - Q–Q plot (Model C)  
-  figures/p21_modelC_qqplot.png
+![modelC_qqplot](figures/p21_modelC_qqplot.png)
 
 - VIF summary (A/B/C)  
   figures/p21_vif_summary.png
