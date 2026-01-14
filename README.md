@@ -1,5 +1,5 @@
 
-# Project 2 — Improving CAII pIC50 baselines (ChEMBL205): multivariate and extended linear models
+#Improving CAII pIC50 baselines (ChEMBL205): multivariate and extended linear models
 
 This repository is a direct continuation of **Project 1 (AlogP-only OLS baseline)**:  
 ➡️ **Project 1 repo:** https://github.com/Epitectus2223/chembl-ca2-pic50-alogp
