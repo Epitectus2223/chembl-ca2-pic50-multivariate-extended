@@ -14,17 +14,6 @@ In Project 1, we established an honest baseline and showed that **AlogP alone** 
 
 ## Summary
 
-### Dataset (not included in this repo)
-- Source: **ChEMBL** (target **CHEMBL205**, Carbonic Anhydrase II, *Homo sapiens*)
-- Curated for consistent measurements:
-  - `standard_type = IC50`
-  - `standard_units = nM`
-  - `standard_relation = "="` (exclude censored values like <, >, ~)
-  - organism = *Homo sapiens*
-- Final curated size: **n = 543**
-
-> Note: The curated dataset is **not tracked in this repository**. See **Data note** below for reproduction guidance.
-
 ---
 
 ## P2 — Multivariate OLS (AlogP + MW)
