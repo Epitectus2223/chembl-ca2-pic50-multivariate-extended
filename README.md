@@ -92,8 +92,6 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 ---
 
 ## Key plots P2
-> Add your diagnostic plots in `figures/` and link them here.
-
 **Pairplot**  
 ![Pairplot](figures/pairplot.png)
 
