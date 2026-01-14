@@ -109,8 +109,7 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 
 ---
 
-## Data note (dataset not included)
-This repository does not include the curated dataset file. To reproduce the dataset:
+## Data note
 1. Download bioactivity records from **ChEMBL** for target **CHEMBL205 (CAII)**.
 2. Filter to **IC50 (nM)** with relation "=" and organism *Homo sapiens*.
 3. Deduplicate records and compute/select descriptors **AlogP** and **MW**.
